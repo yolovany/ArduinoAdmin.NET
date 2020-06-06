@@ -1,0 +1,263 @@
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\ArduinoAdmin.dll.config
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\ArduinoAdmin.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\ArduinoAdmin.pdb
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csc.exe
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csc.exe.config
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csc.rsp
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csi.exe
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csi.exe.config
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\csi.rsp
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Console.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\vbc.exe
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\vbc.rsp
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CopyComplete
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\obj\Debug\ArduinoAdmin.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\obj\Debug\ArduinoAdmin.pdb
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\obj\Debug\ArduinoAdmin.csprojAssemblyReference.cache
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Business.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Data.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Entitys.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\MySql.Data.dll
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Business.pdb
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Data.pdb
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\Entitys.pdb
+C:\Users\Jovany Hernandez\Documents\BookingSystem\ArduinoAdmin\bin\MySql.Data.xml
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll.config
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.pdb
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe.config
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.rsp
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe.config
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.rsp
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Console.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.rsp
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Business.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Data.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Entitys.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\MySql.Data.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Business.pdb
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Data.pdb
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Entitys.pdb
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\bin\MySql.Data.xml
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csprojAssemblyReference.cache
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CopyComplete
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.dll
+C:\Users\Jovany Hernandez\Documents\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.pdb
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll.config
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.pdb
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe.config
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.rsp
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe.config
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.rsp
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Console.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe.config
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.rsp
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Business.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Data.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Entitys.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\MySql.Data.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Business.pdb
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Data.pdb
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Entitys.pdb
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\bin\MySql.Data.xml
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CopyComplete
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.dll
+C:\Users\diego\Desktop\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.pdb
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll.config
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\ArduinoAdmin.pdb
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.exe.config
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csc.rsp
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.exe.config
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\csi.rsp
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Console.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.exe.config
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\vbc.rsp
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Business.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Data.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Entitys.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\MySql.Data.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Business.pdb
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Data.pdb
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Entitys.pdb
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csprojAssemblyReference.cache
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.csproj.CopyComplete
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.dll
+C:\Users\Jovan\Documents\Github\ArduinoAdmin\ArduinoAdmin\obj\Debug\ArduinoAdmin.pdb
